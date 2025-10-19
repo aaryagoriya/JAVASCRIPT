@@ -13,3 +13,7 @@ console.log(boolean);
 // Integer
 let banana = 999;
 console.log(banana);
+
+// Null
+let outofstock = null;
+console.log(outofstock);
