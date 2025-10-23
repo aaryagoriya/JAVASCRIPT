@@ -1,6 +1,6 @@
-const variable = 0;
+let variable = 0;
 
-while (variable < 100) {
+while (variable < 10) {
   console.log("JavaScript!");
   variable++;
 }
